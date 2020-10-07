@@ -242,3 +242,42 @@
     margin-top: 70px;
     margin-bottom: 130px;
 }
+
+.about{
+    background: rgba(243, 241, 239, 0.4);
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    margin: 50px 0 0 0;
+}
+.about_cn{
+    background: rgba(243, 241, 239, 0.4);
+    height: 230px;
+    color: white;
+    text-align: left;
+    padding: 15px 15px;
+    margin: 10px 0 0 0;
+    font-size: 16px;
+}
+.about_en{
+    background: rgba(243, 241, 239, 0.4);
+    height: 190px;
+    color: white;
+    text-align: left;
+    padding: 15px 15px;
+    margin: 10px 0 0 0;
+    font-size: 16px;
+}
+
+.new_logo{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.new_logo img{
+    position: relative;
+    top: 50px;
+    width: 100%;
+    height: 470px;
+}
