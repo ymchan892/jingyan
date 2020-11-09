@@ -47,20 +47,35 @@
 }
 
 /* index */
+.blank{
+    width: 100%;
+    height: 30px;
+}
 .left_area{
     margin-top: 20px;
 }
 
 .left_area1{
     height: 285px;
-    background: url("../image/liveCN.png") no-repeat;
-    background-size: 100% 90%;
+    /*margin-top: 20px;*/
+
+    /*background: url("../image/liveCN.png") no-repeat;*/
+    /*background-size: 100% 90%;*/
 }
+
+#player{
+    height: 100%;
+}
+
 .left_area2{
     height: 285px;
-    background: url("../image/liveEN.png") no-repeat;
-    background-size: 100% 90%;
-    margin-top: -20px;
+    /*background: url("../image/liveEN.png") no-repeat;*/
+    /*background-size: 100% 90%;*/
+    /*margin-top: -20px;*/
+}
+
+#player2{
+    height: 100%;
 }
 
 .right_area{
