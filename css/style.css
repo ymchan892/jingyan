@@ -48,16 +48,17 @@
 
 /* index */
 .blank{
-    width: 100%;
-    height: 30px;
+    /*width: 100%;*/
+    height: 20px;
+    margin-bottom: 20px;
 }
 .left_area{
-    margin-top: 20px;
+    marging-top: 20px;
 }
 
 .left_area1{
     height: 285px;
-    /*margin-top: 20px;*/
+    padding-top: 10px;
 
     /*background: url("../image/liveCN.png") no-repeat;*/
     /*background-size: 100% 90%;*/
@@ -69,6 +70,7 @@
 
 .left_area2{
     height: 285px;
+    padding-top: 5px;
     /*background: url("../image/liveEN.png") no-repeat;*/
     /*background-size: 100% 90%;*/
     /*margin-top: -20px;*/
@@ -79,6 +81,7 @@
 }
 
 .right_area{
+    margin-top: 10px;
     background: rgba(243, 241, 239, 0.4);
 }
 
